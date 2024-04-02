@@ -1,4 +1,4 @@
-This is just a beginner level project.
+## This is just a beginner level project.
 
 ## Features---
 Menu Display: Browse through our diverse menu offerings, including beverages, snacks, and meals.
